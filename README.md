@@ -1,2 +1,3 @@
-# weather-app
-weather-app
+# Weather App
+
+Описание проекта weather-app.
